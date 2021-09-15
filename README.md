@@ -5,6 +5,7 @@
 
 In this project, I will set up a "Hello world" repository. No complicated coding it is just used for exercise, it involves html and css.
 
+![screenshot](./images/mobile.png)
 
 
 This is exercice first coding exercice with Microverse
@@ -40,7 +41,6 @@ Give a ⭐️ if you like this project!
 
 - special thanks to Microverse! 
 - My standup team  and coding partners
-- my mentor
 - etc
 
 ## 📝 License
