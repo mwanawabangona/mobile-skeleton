@@ -3,18 +3,22 @@
 
 
 
-In this project, I will set up a "Hello world" repository. No complicated coding it is just used for exercise, it involves html and css.
+The project is inspired by the figma microverse template 1 (https://figma.com/)
+For this portfolio mobile skeleton website, I implemented HTML and CSS for this part of the template
+and i also used Linters to fix bugs and other errors in both css and html.
+
 
 ![screenshot](./images/mobile.png)
 
+## Live Demo
 
-This is exercice first coding exercice with Microverse
+[Live Demo Link](https://mwanawabangona.github.io/mobile-portfolio/)
 
-## Project stacks
+## Built With
 
-- git/github
-- html/css
-- linters (html - css )
+- HTML
+- CSS
+- linters (for errors)
 
 
 
@@ -22,6 +26,7 @@ This is exercice first coding exercice with Microverse
 
 👤 **mwanawabangona**
 
+- Location: Zambia
 - GitHub: [@mwanawabangona](https://github.com/mwanawabangona)
 - Twitter: [@Ellis_aah](https://twitter.com/Ellis_aah)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ellis-ng-ona-50a600152/)
@@ -31,7 +36,8 @@ This is exercice first coding exercice with Microverse
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/mwanawabangona/mobile-skeleton/issues).
+.
 
 ## Show your support
 
