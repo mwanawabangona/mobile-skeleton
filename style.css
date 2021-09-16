@@ -56,7 +56,7 @@ body {
 }
 
 #first-section {
-  background-image: url('./images/header-shapes\ mobile.png');
+  background-image: url(./images/header-shapes\ mobile.png);
   background-size: cover;
   background-repeat: no-repeat;
   width: 100%;
