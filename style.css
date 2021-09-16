@@ -35,7 +35,6 @@ body {
 
 .lets-text {
   font-size: 16px;
-  font-style: normal;
   font-weight: 500;
   color: #7f8cff;
 }
@@ -47,7 +46,6 @@ body {
 .logo {
   cursor: pointer;
   font-size: 18px;
-  font-style: normal;
   font-weight: 700;
   line-height: 20px;
   color: #6070ff;
