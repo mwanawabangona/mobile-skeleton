@@ -12,7 +12,7 @@ and i also used Linters to fix bugs and other errors in both css and html.
 
 ## Live Demo
 
-[Live Demo Link](https://mwanawabangona.github.io/mobile-portfolio/)
+[Live Demo Link](https://mwanawabangona.github.io/mobile-skeleton/)
 
 ## Built With
 
